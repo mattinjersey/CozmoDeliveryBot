@@ -11,7 +11,8 @@ Getting Started
 You need Cozmo robot, SDK, laptop, iPad. Typical for running Cozmo.
 Download all files.
 The main program is xDelivery_v2.py
-so type: python xDelivery_v2.py
+Type: python xDelivery_v2.py
+The other programs are helper functions.
 
 Authors
 Matt Fetterman
